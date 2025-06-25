@@ -48,5 +48,5 @@ adventure-works-sales-dashboard/
 │
 ├── LICENSE                        # License information for the repository
 ├── README.md                      # Project overview and information
-├── Sales_Dashboard.xlsm          # Excel dashboard
+├── Sales_Dashboard.xlsm           # Excel dashboard
 ```
