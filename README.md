@@ -16,7 +16,7 @@ A comprehensive Excel-based sales analytics dashboard analysing Adventure Works'
 - **Multi-Metric Charts**: Radio button selection for revenue, profit and cost by year, month and day of week pattern
 - **Temporal Analysis**: Revenue, profit and profit margin by quarter and country
 
-![Sales Dashboard](images/sales_dashboard.png)
+![Main Dashboard](images/main_dashboard.png)
 
 **Product Analysis Tab**
 - **Repeated KPIs**: Core financial metrics for quick reference
@@ -25,7 +25,7 @@ A comprehensive Excel-based sales analytics dashboard analysing Adventure Works'
   - Product pricing type segmentation (Low <$100, Medium $100-$1000, High >$1000)
   - Unit sales distribution by pricing tiers
 
-![Customer Dashboard](images/customer_dashboard.png)
+![Product Dashboard](images/product_dashboard.png)
 
 ## 🛠️ Technical Skills Demonstrated
 - **Pivot Tables**: Multi-dimensional data aggregation with calculated fields and automated chart generation for comprehensive sales analysis
@@ -48,5 +48,5 @@ adventure-works-sales-dashboard/
 │
 ├── LICENSE                        # License information for the repository
 ├── README.md                      # Project overview and information
-├── Sales_Dashboards.xlsm          # Excel dashboard
+├── Sales_Dashboard.xlsm          # Excel dashboard
 ```
